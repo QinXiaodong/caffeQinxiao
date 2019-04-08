@@ -5,7 +5,7 @@
 Features:
 1) Added maxunpooling operation;
 2) Updated cudnn files for using of cudnn 5.1;
-3) There is a keras2caffe script file in caffeQinxiao/keras2caffe which works well in converting Yushuo's keras model to caffe version.
+3) There is a keras2caffe script file in caffeQinxiao/keras2caffe which works well in converting Yushuo's keras model to a caffe version.
 
 # Fork of Caffe 
 
