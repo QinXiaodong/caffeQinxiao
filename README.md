@@ -3,7 +3,7 @@
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
 Features:
-1) Added maxunpooling operation;
+1) Added maxUnpooling operation;
 2) Updated cudnn files for using of cudnn 5.1;
 3) There is a keras2caffe script file in caffeQinxiao/keras2caffe which works well in converting Yushuo's keras model to a caffe version.
 
