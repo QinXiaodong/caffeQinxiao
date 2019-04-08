@@ -4,7 +4,7 @@
 
 Features:
 1) Added maxunpooling operation;
-2) Updated cudnn files for using of cudnn 5.1
+2) Updated cudnn files for using of cudnn 5.1.
 
 # Fork of Caffe 
 
@@ -52,5 +52,4 @@ Please cite Caffe in your publications if it helps your research:
       Title = {Caffe: Convolutional Architecture for Fast Feature Embedding},
       Year = {2014}
     }
-# caffeQinxiao
 
